@@ -1,0 +1,6 @@
+main: me.pi3ro.ranking.Ranking
+name: Ranking
+author: Pi3ro
+version: 1.0
+commands:
+  ranking:

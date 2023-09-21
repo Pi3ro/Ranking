@@ -1,0 +1,9 @@
+MONGODB:
+  ADDRESS: 127.0.0.1
+  PORT: 27017
+  DATABASE: Ranking
+  AUTHENTICATION:
+    ENABLED: false
+    USERNAME: admin
+    PASSWORD: pass
+    DATABASE: admin
